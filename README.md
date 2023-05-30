@@ -12,7 +12,7 @@ Go to DOTLAN https://evemaps.dotlan.net/ and log in with an account in the allia
 
 ![Home Page](images/Screenshot%20-%20navigation.png)
 
-Click Navigation button at the top. Then choose Navigation Tools --> Bridges
+Click Navigation button at the top. Then choose Bridges.
 
 ![Bridges](images/Screenshot%20-%20bridges.png)
 
