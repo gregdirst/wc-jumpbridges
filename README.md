@@ -26,7 +26,11 @@ Next to `Jump Bridge Network: <network name>` hover the mouse to the right of th
 
 ![Copied to clipboard](images/Screenshot%20-%20copied%20to%20clipboard.png)
 
-Paste into your favorite text editor and remove everything except the two system names on each row with a tab between.
+Paste into your favorite text editor.
+
+![Paste clipboard into editor](images/Screenshot%20-%20paste%20clipboard.png)
+
+Remove everything except the two system names on each row with a tab between.
 
 ![Data Format Example](images/Screenshot%20-%20data%20format%20example.png)
 
