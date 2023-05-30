@@ -44,7 +44,7 @@ Next to `Jump Bridge Network: <network name>` hover the mouse to the right of th
 
 ## Format The Data
 
-You will paste the clipboard you copied from DOTLAN into any notepad like editor to create a .csv formatted file.
+You will paste the clipboard you copied from DOTLAN into any notepad like editor to create a .csv formatted file.<br/><br/>
 
 Paste into your favorite text editor.
 
