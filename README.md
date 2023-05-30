@@ -1,6 +1,6 @@
 # wc-jumpbridges
 
-Go to the [Google Store]([https://www.google.com](https://chrome.google.com/webstore/category/extensions) in Microsoft Edge and search for `Dotlan Export Network` then install it.
+Go to the ![Google Store](https://chrome.google.com/webstore/category/extensions) in Microsoft Edge and search for `Dotlan Export Network` then install it.
 
 ![Get Extension](images/Screenshot%20-%20search%20extension.png)
 
