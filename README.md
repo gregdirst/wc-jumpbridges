@@ -58,6 +58,6 @@ Save the file in a publicly accesible location like github or cloud as a `.csv` 
 
 ## Import The Data
 
-Open EveEye and select the `Custom Data` button on the left. Click `jumpbridges` and paste the link into the `External Data` then click the `refresh` button.
+Open [EveEye](https://eveeye.com) and select the `Custom Data` button on the left. Click `jumpbridges` and paste the link into the `External Data` then click the `refresh` button.
 
 ![EveEye](images/Screenshot%20-%20eve%20eye.png)<br/>
