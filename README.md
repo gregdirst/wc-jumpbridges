@@ -6,11 +6,11 @@ I found this extension and enabled it. Please do your due diligence before insta
 
 Go to the [Google Store](https://chrome.google.com/webstore/category/extensions) in Microsoft Edge and search for `Dotlan Export Network` then install it.
 
-![Get Extension](images/Screenshot%20-%20search%20extension.png)<br/>
+![Get Extension](images/Screenshot%20-%20search%20extension.png)<br/><br/>
 
 Enable the extension.
 
-![Extention Button](images/Screenshot%20-%20extension%20button.png)<br/>
+![Extention Button](images/Screenshot%20-%20extension%20button.png)<br/><br/>
 
 ## Get The Data
 
@@ -18,21 +18,21 @@ You will use the extension on the Bridges page in DOTLAN.
 
 Go to DOTLAN https://evemaps.dotlan.net/ and log in with an account in the alliance you want the jumpbridges for. Requires registration.
 
-![Home Page](images/Screenshot%20-%20navigation.png)<br/>
+![Home Page](images/Screenshot%20-%20navigation.png)<br/><br/>
 
 Click `Navigation` button at the top. Then choose `Bridges`.
 
-![Bridges](images/Screenshot%20-%20bridges.png)<br/>
+![Bridges](images/Screenshot%20-%20bridges.png)<br/><br/>
 
 Choose the `Network Name`.
 
-![Network Name](images/Screenshot%20-%20network%20name.png)<br/>
+![Network Name](images/Screenshot%20-%20network%20name.png)<br/><br/>
 
 Next to `Jump Bridge Network: <network name>` hover the mouse to the right of this text and a button labeled `Copy Network` should appear then click it.
 
-![Hover for the button](images/Screenshot%20-%20hover.png)<br/>
+![Hover for the button](images/Screenshot%20-%20hover.png)<br/><br/>
 
-![Copied to clipboard](images/Screenshot%20-%20copied%20to%20clipboard.png)<br/>
+![Copied to clipboard](images/Screenshot%20-%20copied%20to%20clipboard.png)<br/><br/>
 
 ## Format The Data
 
@@ -40,11 +40,11 @@ You will paste the clipboard you copied from DOTLAN into any notepad like editor
 
 Paste into your favorite text editor.
 
-![Paste clipboard into editor](images/Screenshot%20-%20paste%20clipboard.png)<br/>
+![Paste clipboard into editor](images/Screenshot%20-%20paste%20clipboard.png)<br/><br/>
 
 Remove everything except the two system names on each row with a tab between.
 
-![Data Format Example](images/Screenshot%20-%20data%20format%20example.png)<br/>
+![Data Format Example](images/Screenshot%20-%20data%20format%20example.png)<br/><br/>
 
 Save the file in a publicly accesible location like github or cloud as a `.csv` file then get a url to the direct file.
 
