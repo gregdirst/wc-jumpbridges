@@ -1,4 +1,8 @@
-# wc-jumpbridges
+# How to import jumpbridges into EveEye.com
+
+## Chrome Extension
+
+I found this extension and enabled it. Please do your due diligence before installing extensions.
 
 Go to the [Google Store](https://chrome.google.com/webstore/category/extensions) in Microsoft Edge and search for `Dotlan Export Network` then install it.
 
@@ -8,15 +12,19 @@ Enable the extension.
 
 ![Extention Button](images/Screenshot%20-%20extension%20button.png)
 
+## Get The Data
+
+You will use the extension on the Bridges page in DOTLAN.
+
 Go to DOTLAN https://evemaps.dotlan.net/ and log in with an account in the alliance you want the jumpbridges for. Requires registration.
 
 ![Home Page](images/Screenshot%20-%20navigation.png)
 
-Click Navigation button at the top. Then choose Bridges.
+Click `Navigation` button at the top. Then choose `Bridges`.
 
 ![Bridges](images/Screenshot%20-%20bridges.png)
 
-Choose the network name.
+Choose the `Network Name`.
 
 ![Network Name](images/Screenshot%20-%20network%20name.png)
 
@@ -26,6 +34,10 @@ Next to `Jump Bridge Network: <network name>` hover the mouse to the right of th
 
 ![Copied to clipboard](images/Screenshot%20-%20copied%20to%20clipboard.png)
 
+## Format The Data
+
+You will paste the clipboard you copied from DOTLAN into any notepad like editor to create a .csv formatted file.
+
 Paste into your favorite text editor.
 
 ![Paste clipboard into editor](images/Screenshot%20-%20paste%20clipboard.png)
@@ -34,8 +46,8 @@ Remove everything except the two system names on each row with a tab between.
 
 ![Data Format Example](images/Screenshot%20-%20data%20format%20example.png)
 
-Save the file in a publicly accesible location like github or cloud and get a url to the direct file.
+Save the file in a publicly accesible location like github or cloud as a `.csv` file then get a url to the direct file.
 
-Open EveEye and select the Custom Data button on the left. Click jumpbridges and paste the link into the External Data then click the refresh button.
+Open EveEye and select the `Custom Data` button on the left. Click `jumpbridges` and paste the link into the `External Data` then click the `refresh` button.
 
 ![EveEye](images/Screenshot%20-%20eve%20eye.png)
