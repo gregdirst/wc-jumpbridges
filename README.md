@@ -6,7 +6,7 @@ I wanted to use EveEye and SMT with our Eve Online alliance jumpbridges and I wa
 
 This solition will leverage the use of an extension someone wrote that copies the HTML table on DOTLAN into the clipboard. Then a text editor will be used (I used Notepad++) to format and save the data in CSV format. Finally, EveEye and SMT can then point to the file and import the data.
 
-**NOTE:the data pasted into the text editor had a problem not parsing systems that ended in a 0 (zero). You will want to scan the data from top to bottom and manually fix any defects before saving it.**
+**NOTE:the data pasted into the text editor had a problem not parsing systems that ended in a 0 (zero). You will want to scan the data from top to bottom and manually fix any defects before saving it.**<br/><br/>
 
 ## Chrome Extension
 
