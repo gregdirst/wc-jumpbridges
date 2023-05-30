@@ -4,15 +4,15 @@ Go to the [Google Store]([https://www.google.com](https://chrome.google.com/webs
 
 ![Image](location of image in repo.type)
 
-nable the extension.
+Enable the extension.
 
 ![Extention Button](images/Screenshot%20-%20extension%20button.png)
 
 Go to DOTLAN https://evemaps.dotlan.net/ and log in with an account in the alliance you want the jumpbridges for. Requires registration.
 
-Click Navigation button at the top. Then choose Navigation Tools --> Bridges
-
 ![Home Page](images/Screenshot%20-%20navigation.png)
+
+Click Navigation button at the top. Then choose Navigation Tools --> Bridges
 
 ![Bridges](images/Screenshot%20-%20bridges.png)
 
