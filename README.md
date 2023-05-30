@@ -2,7 +2,7 @@
 
 Go to the [Google Store]([https://www.google.com](https://chrome.google.com/webstore/category/extensions) in Microsoft Edge and search for `Dotlan Export Network` then install it.
 
-![Image](location of image in repo.type)
+![Get Extension](images/Screenshot%20-%20search%20extension.png)
 
 Enable the extension.
 
