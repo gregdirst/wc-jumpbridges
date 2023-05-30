@@ -1,5 +1,9 @@
 # How to import jumpbridges into EveEye.com
 
+## Why did I do this
+
+I wanted to use EveEye and SMT with our jumpbridges and I was struggling to figure out how. Too many dead ends that didn't work. I figured I would share what I did and would love to get some feedback on other ways.
+
 ## Chrome Extension
 
 I found this extension and enabled it. Please do your due diligence before installing extensions.
