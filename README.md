@@ -1,14 +1,14 @@
 # How to import jumpbridges into tools
 
-## EveEye.com
-
-### Why did I do this
+## Why did I do this
 
 I wanted to use EveEye and SMT with our Eve Online alliance jumpbridges and I was struggling to figure out how. Too many dead ends that didn't work. I figured I would share what I did and would love to get some feedback on other ways.
 
 This solition will leverage the use of an extension someone wrote that copies the HTML table on DOTLAN into the clipboard. Then a text editor will be used (I used Notepad++) to format and save the data in CSV format. Finally, EveEye and SMT can then point to the file and import the data.
 
 **NOTE:the data pasted into the text editor had a problem not parsing systems that ended in a 0 (zero). You will want to scan the data from top to bottom and manually fix any defects before saving it.**<br/><br/>
+
+## EveEye.com
 
 ### Chrome Extension
 
@@ -21,6 +21,8 @@ Go to the [Google Store](https://chrome.google.com/webstore/category/extensions)
 Enable the extension.
 
 ![Extention Button](images/Screenshot%20-%20extension%20button.png)<br/><br/>
+
+![EveEye](images/Screenshot%20-%20eve%20eye.png)<br/>
 
 ### Get The Data
 
@@ -81,4 +83,4 @@ One more time, go back to `Nav Structures` tab and click the `Find Gates` button
 You should now see lines on the map that show all the jump bridges.
 
 
-![EveEye](images/Screenshot%20-%20eve%20eye.png)<br/>
+
