@@ -70,7 +70,7 @@ Click the menu: `File --> Preferences` then click the `Nav Structures` tab
 
 ### Copy the data in memory
 
-[Click here for the data file](https://raw.githubusercontent.com/gregdirst/wc-jumpbridges/refs/heads/main/2025-06-06-SMT.tx)
+[Click here for the data file](https://raw.githubusercontent.com/gregdirst/wc-jumpbridges/refs/heads/main/2025-06-06-SMT.txt)
 
 ### Import the data
 
