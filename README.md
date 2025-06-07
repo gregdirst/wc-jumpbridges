@@ -1,6 +1,8 @@
-# How to import jumpbridges into EveEye.com
+# How to import jumpbridges into tools
 
-## Why did I do this
+## EveEye.com
+
+### Why did I do this
 
 I wanted to use EveEye and SMT with our Eve Online alliance jumpbridges and I was struggling to figure out how. Too many dead ends that didn't work. I figured I would share what I did and would love to get some feedback on other ways.
 
@@ -8,7 +10,7 @@ This solition will leverage the use of an extension someone wrote that copies th
 
 **NOTE:the data pasted into the text editor had a problem not parsing systems that ended in a 0 (zero). You will want to scan the data from top to bottom and manually fix any defects before saving it.**<br/><br/>
 
-## Chrome Extension
+### Chrome Extension
 
 I found this extension and enabled it. Please do your due diligence before installing extensions.
 
@@ -20,7 +22,7 @@ Enable the extension.
 
 ![Extention Button](images/Screenshot%20-%20extension%20button.png)<br/><br/>
 
-## Get The Data
+### Get The Data
 
 You will use the extension on the Bridges page in DOTLAN.
 
@@ -42,7 +44,7 @@ Next to `Jump Bridge Network: <network name>` hover the mouse to the right of th
 
 ![Copied to clipboard](images/Screenshot%20-%20copied%20to%20clipboard.png)<br/><br/>
 
-## Format The Data
+### Format The Data
 
 You will paste the clipboard you copied from DOTLAN into any notepad like editor to create a .csv formatted file.<br/><br/>
 
@@ -56,8 +58,27 @@ Remove everything except the two system names on each row with a tab between.
 
 Save the file in a publicly accesible location like github or cloud as a `.csv` file then get a url to the direct file.
 
-## Import The Data
+### Import The Data
 
 Open [EveEye](https://eveeye.com) and select the `Custom Data` button on the left. Click `jumpbridges` and paste the link into the `External Data` then click the `refresh` button.
+
+## SMT
+
+### Navigate to the location
+
+Click the menu: `File --> Preferences` then click the `Nav Structures` tab
+
+### Copy the data in memory
+
+[Click here for the data file](https://raw.githubusercontent.com/gregdirst/wc-jumpbridges/refs/heads/main/2025-06-06-SMT.tx)
+
+### Import the data
+
+Go back to `Nav Structures` tab and click the `Find Gates` button. Don't do anything else except click the `OK` button.
+
+One more time, go back to `Nav Structures` tab and click the `Find Gates` button. You should see a list of jump gates. Don't do anything else except click the `OK` button.
+
+You should now see lines on the map that show all the jump bridges.
+
 
 ![EveEye](images/Screenshot%20-%20eve%20eye.png)<br/>
